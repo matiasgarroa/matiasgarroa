@@ -1,4 +1,4 @@
-<h2> Hi, I'm Matias! </br> <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="200"> </h2>
+<h2> Hi, I'm Matias! <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="210" align='center'></h2>
 
 <img align='right' src="https://media.giphy.com/media/f94pgBtLl2iGrMsgNQ/giphy.gif" width="230">
 <p><em>Data Science student at <a href="https://www.soyhenry.com/">Henry</a><img src="https://media.giphy.com/media/MP4Za7rK3uOPIxIh27/giphy.gif" width="30">
