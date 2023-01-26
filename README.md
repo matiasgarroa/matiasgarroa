@@ -7,7 +7,6 @@
 [![Linkedin: matíasgarroa](https://img.shields.io/badge/-mat%C3%ADasgarroalou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mat%C3%ADasgarroalou/)](https://www.linkedin.com/in/mat%C3%ADasgarroalou/)
 [![GitHub matiasgarroa](https://img.shields.io/github/followers/matiasgarroa?label=follow&style=social)](https://github.com/matiasgarroa)
 
-
 ### <img src="https://media.giphy.com/media/cApGBul2bwFuxY8WZH/giphy.gif" width="50"> About me...  
 
 ```python
@@ -20,7 +19,6 @@ class mati:
     languages = ['Spanish (native)', 'English (B1)']
 }
 ```
-
 ---
 <!--
 **matiasgarroa/matiasgarroa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
