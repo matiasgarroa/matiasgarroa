@@ -8,7 +8,7 @@
 [![GitHub matiasgarroa](https://img.shields.io/github/followers/matiasgarroa?label=follow&style=social)](https://github.com/matiasgarroa)
 
 
-### <img src="https://media.giphy.com/media/cApGBul2bwFuxY8WZH/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/cApGBul2bwFuxY8WZH/giphy.gif" width="50"> About me...  
 
 ```python
 class mati:
