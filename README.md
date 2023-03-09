@@ -14,18 +14,9 @@ class mati:
     def __init__(self):
         print('Hi!')
 
-    about_me = ['I am a Data Scientist with a background in web development that helped me
-                learn more about programming, familiarize myself with databases, solve noblems
-                and work in a team. Knowledge of agile methodologies, workflows, data structure,
-                model evaluation, machine learning, Big Data. I have experience in database
-                creation, data analysis, and software development with Python.']
+    about_me = ['I am a Data Scientist with a background in web development that helped me learn more about programming, familiarize myself with databases, solve noblems and work in a team. Knowledge of agile methodologies, workflows, data structure, model evaluation, machine learning, Big Data. I have experience in database creation, data analysis, and software development with Python.']
                 
-    more_about_me = ['I am passionate about finding innovative solutions to technological
-                    challenges, which led me to the soyHenry Data Science bootcamp and that
-                    I had the opportunity to develop projects in the role of data engineer,
-                    data analyst and machine learning. I also developed an analysis of migratory
-                    flows in a group where we were able to put our teamwork, creativity,
-                    research skills and technical knowledge to the test.']
+    more_about_me = ['I am passionate about finding innovative solutions to technological challenges, which led me to the soyHenry Data Science bootcamp and that I had the opportunity to develop projects in the role of data engineer, data analyst and machine learning. I also developed an analysis of migratory flows in a group where we were able to put our teamwork, creativity, research skills and technical knowledge to the test.']
     
     code = ['Python', 'MySQL', 'JavaScript', 'HTML', 'CSS']
     tools = ['Docker', 'PowerBI', 'Spark', 'Apache Airflow', 'GitHub', 'Streamlit', 'FastAPI', 'Jupyter Notebook']
