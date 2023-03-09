@@ -19,7 +19,6 @@ class mati:
     platforms = ['Google Cloud', 'Azure', 'Hadoop']
     os = ['Windows', 'Linux']
     languages = ['Spanish (native)', 'English (B2)']
-}
 ```
 ### Social Media
 [![Linkedin: matíasgarroalou](https://img.shields.io/badge/-matiasgarroalou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matiasgarroalou/)](https://www.linkedin.com/in/matiasgarroalou/)
